@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4c0ed94-3b6d-4bcc-83b7-36d4f9ded70b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/contracts/NaraMalsamiTokenTrade.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/NaraMalsamiTokenTrade.sol" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1271411348">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="2" />
+          <entry key="json" value="4" />
+          <entry key="sol" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Solidity file" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="json" value="3" />
+          <entry key="sol" value="87" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="3" />
+          <entry key="Solidity file" value="87" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1970061838">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="19" />
+          <entry key="json" value="15" />
+          <entry key="sol" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="15" />
+          <entry key="JavaScript" value="19" />
+          <entry key="Solidity file" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="8044" />
+          <entry key="json" value="171" />
+          <entry key="sol" value="3298" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="171" />
+          <entry key="JavaScript" value="8044" />
+          <entry key="Solidity file" value="3298" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1606534258">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+          <entry key="sol" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Solidity file" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="14" />
+          <entry key="sol" value="331" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="14" />
+          <entry key="Solidity file" value="331" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1431613943">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="76" />
+          <entry key="sol" value="2386" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="76" />
+          <entry key="Solidity file" value="2386" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="9" />
+          <entry key="json" value="1" />
+          <entry key="sol" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="9" />
+          <entry key="Solidity file" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contracts/NaraMalsamiTokenTrade.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding>
+                <element signature="n#!!block;n#token#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#cap#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#weiPerData#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#dataGoal#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#dataRaised#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#dataBlockCounter#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#tokenLeft#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#refundClaimed#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#refundTokenAmount#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#emitSeller#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#emitVerifier#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#_setUser#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#_deliverTokens#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#_preValidateUser#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#_preValidatePurchase#0;n#NaraMalsamiTokenTrade#0" />
+                <element signature="n#!!block;n#freeze#0;n#NaraMalsamiTokenTrade#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/NaraMalsamiToken.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="n#!!block;n#getDecimals#0;n#NaraMalsamiToken#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>allow</find>
+      <find>allowan</find>
+      <find>li</find>
+      <find>&quot;0x</find>
+      <find>div</find>
+      <find>msg</find>
+      <find>sta</find>
+      <find>web3.eth.de</find>
+      <find>buyer</find>
+      <find>buy</find>
+      <find>NMTTI</find>
+      <find>0xC</find>
+      <find>.at</find>
+      <find>isW</find>
+      <find>checker</find>
+      <find>White</find>
+      <find>white</find>
+      <find>testing</find>
+      <find>address</find>
+      <find>balan</find>
+      <find>fee</find>
+      <find>isV</find>
+      <find>fileHash</find>
+      <find>seller</find>
+      <find>emitBoth</find>
+      <find>newTrade</find>
+      <find>_dataRaised</find>
+      <find>emit</find>
+      <find>Emitted</find>
+      <find>_max</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\NMT-All\NMT-Solidity\build\contracts</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build/contracts/NaraMalsamiTokenTrade.json" />
+        <option value="$PROJECT_DIR$/build/contracts/NaraMalsamiToken.json" />
+        <option value="$PROJECT_DIR$/contracts/NaraMalsamiTokenCrowdsale.sol" />
+        <option value="$PROJECT_DIR$/migrations/2_deploy_token.js" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/test2.js" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/testAccount.json" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/test.js" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/testing.json" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/server.js" />
+        <option value="$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/minter.js" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/buyer.js" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/seller.js" />
+        <option value="$PROJECT_DIR$/../NMT-Server/bin/listener.js" />
+        <option value="$PROJECT_DIR$/truffle-config.js" />
+        <option value="$PROJECT_DIR$/serverLocalTest/buyer.js" />
+        <option value="$PROJECT_DIR$/serverLocalTest/listener.js" />
+        <option value="$PROJECT_DIR$/serverLocalTest/minter.js" />
+        <option value="$PROJECT_DIR$/serverLocalTest/server.js" />
+        <option value="$PROJECT_DIR$/serverLocalTest/lib.js" />
+        <option value="$PROJECT_DIR$/contracts/NaraMalsamiToken.sol" />
+        <option value="$PROJECT_DIR$/contracts/NaraMalsamiTokenTrade.sol" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NMT-Solidity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NMT-Solidity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NMT-Solidity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NMT-Solidity" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NMT-Solidity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NMT-Solidity" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NMT-Solidity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NMT-Solidity" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/NMT-backup/NMT-Server" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/contracts/NaraMalsamiToken.sol" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4c0ed94-3b6d-4bcc-83b7-36d4f9ded70b" name="Default Changelist" comment="" />
+      <created>1553412741378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553412741378</updated>
+      <workItem from="1553412746225" duration="1307000" />
+      <workItem from="1553414086295" duration="2236000" />
+      <workItem from="1553416565095" duration="736000" />
+      <workItem from="1553503464635" duration="3153000" />
+      <workItem from="1553521312494" duration="2621000" />
+      <workItem from="1553524436988" duration="35000" />
+      <workItem from="1553581499628" duration="2719000" />
+      <workItem from="1553670282948" duration="433000" />
+      <workItem from="1553762521876" duration="599000" />
+      <workItem from="1553765567140" duration="38743000" />
+      <workItem from="1554098393920" duration="21507000" />
+      <workItem from="1554124867278" duration="16533000" />
+      <workItem from="1554141829740" duration="51000" />
+      <workItem from="1554341648952" duration="7179000" />
+      <workItem from="1554351483277" duration="96000" />
+      <workItem from="1554359390107" duration="179000" />
+      <workItem from="1554359791220" duration="6808000" />
+      <workItem from="1554649834433" duration="1566000" />
+      <workItem from="1555051871786" duration="4377000" />
+      <workItem from="1555100640476" duration="17000" />
+      <workItem from="1555215206105" duration="2892000" />
+      <workItem from="1555661069014" duration="4357000" />
+      <workItem from="1555750874720" duration="616000" />
+      <workItem from="1557475030801" duration="6241000" />
+      <workItem from="1558064165577" duration="3184000" />
+      <workItem from="1559196111170" duration="258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128443000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985507" visible="true" weight="0.24653007" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.5014493" side_tool="true" weight="0.24653007" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289855" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.36956522" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/contracts/Migrations.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="123" column="22" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/SejongCoin.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/SimpleToken.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/NaraMalsamiTokenTrade.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="16940" column="7" selection-start-line="16940" selection-start-column="3" selection-end-line="16940" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/access/roles/WhitelistAdminRole.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/test2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/NaraMalsamiTokenCrowdsale.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31556">
+          <caret line="1413" column="8" lean-forward="true" selection-start-line="1413" selection-start-column="8" selection-end-line="1413" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/testAccount.json" />
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/test.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC20/IERC20.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/testing.json" />
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/buyer.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/server.js" />
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/minter.js" />
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/seller.js" />
+    <entry file="file://$PROJECT_DIR$/test/SejongCoin.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NMT-Server/bin/listener.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/ownership/Ownable.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-736">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/NaraMalsamiToken.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="615" column="1078" selection-start-line="615" selection-start-column="1078" selection-end-line="615" selection-end-column="1078" />
+          <folding>
+            <element signature="n#!!block;n#ast#0;n#!!top" />
+            <element signature="n#!!block;n#legacyAST#0;n#!!top" />
+            <element signature="n#!!block;n#compiler#0;n#!!top" />
+            <element signature="n#!!block;n#networks#0;n#!!top" />
+            <element signature="n#!!block;n#devdoc#0;n#!!top" />
+            <element signature="n#!!block;n#userdoc#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truffle-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/2_deploy_token.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/access/Roles.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/access/roles/WhitelistedRole.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/1_initial_migration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverLocalTest/buyer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverLocalTest/minter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="30" column="79" lean-forward="true" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverLocalTest/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverLocalTest/listener.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="30" column="79" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverLocalTest/lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/NaraMalsamiTokenCrowdsale.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/math/SafeMath.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/NaraMalsamiToken.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="n#!!block;n#getDecimals#0;n#NaraMalsamiToken#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/NaraMalsamiTokenTrade.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!block;n#token#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#cap#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#weiPerData#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#dataGoal#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#dataRaised#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#dataBlockCounter#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#tokenLeft#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#refundClaimed#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#refundTokenAmount#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#emitSeller#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#emitVerifier#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#_setUser#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#_deliverTokens#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#_preValidateUser#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#_preValidatePurchase#0;n#NaraMalsamiTokenTrade#0" />
+            <element signature="n#!!block;n#freeze#0;n#NaraMalsamiTokenTrade#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
